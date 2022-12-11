@@ -13,6 +13,7 @@ Updating its policy and properties
 ![GitHub Logo](/static-website-enabeled.png)
 
 Creating distrubition 
+![GitHub Logo](/distribution-created.png)
 
 WebSite https://d11280r58b2b8s.cloudfront.net
 ![GitHub Logo](/website.png)

@@ -13,6 +13,6 @@ Updating its policy and properties
 Creating distrubition 
 ![GitHub Logo](/distribution-created.png)
 
-WebSite https://dt09g8up0m6hh.cloudfront.net/index.html
+WebSite d11280r58b2b8s.cloudfront.net
 ![GitHub Logo](/website.png)
 

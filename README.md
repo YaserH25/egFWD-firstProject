@@ -14,5 +14,5 @@ Creating distrubition
 ![GitHub Logo](/distribution-created.png)
 
 WebSite d11280r58b2b8s.cloudfront.net
-![GitHub Logo](/website.png)
+
 
